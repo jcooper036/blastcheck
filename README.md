@@ -1,6 +1,7 @@
-# BlastCheck v1
-A lightweight python program for checking the number of blast hits for some sequences.
-jcooper036@gmail.com
+# BlastCheck
+A lightweight python program for checking the number of blast hits for some sequences.  
+v 1.0  
+jcooper036@gmail.com  
 
 # Installation
 ## NCBI Blast
